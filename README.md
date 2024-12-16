@@ -12,7 +12,7 @@ Automated Alerts: The system can send notifications for critical events, such as
 
 Community and Support: MinterfaceOS encourages collaboration among users, providing access to forums and resources for sharing knowledge, tips, and troubleshooting advice.
 
-With its launch in 2025, MinterfaceOS aims to revolutionize the cryptocurrency mining landscape by providing a powerful yet accessible tool for miners of all skill levels.
+With its launch in 2024, MinterfaceOS aims to revolutionize the cryptocurrency mining landscape by providing a powerful yet accessible tool for miners of all skill levels.
 
 
 
