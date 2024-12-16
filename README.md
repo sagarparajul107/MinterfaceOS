@@ -1,4 +1,4 @@
-MinterfaceOS is a cutting-edge bash tool for cryptocurrency mining assistance, developed by Sagar Parajuli, set to launch on January 1, 2025. This innovative platform is designed to simplify the mining process, making it accessible for both newcomers and experienced miners alike.
+MinterfaceOS is a cutting-edge bash tool for cryptocurrency mining assistance, developed by Sagar Parajuli, set to launch on 12, 16, 2024. This innovative platform is designed to simplify the mining process, making it accessible for both newcomers and experienced miners alike.
 
 **Key Features: - Bash Integration: MinterfaceOS leverages the power of bash scripting to provide a lightweight and efficient mining solution, allowing users to execute commands and automate tasks seamlessly.
 
